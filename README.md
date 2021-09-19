@@ -28,6 +28,11 @@ CC BY Licence.
   
 #
 # Extra notes from MarTinX
+I added a DXF file into the repo with perfect and correct size.  
+I tried to conver the SVG into DXF with Adobe Illustrator and it exported wrong size DXF for me. and I cut a giant shell at the moment. 
+Now, I just make it with right size now.
+
+
 Top view with 3D printed push buttons. 
 ![Smoked Transparent Ver](/Images/IMG_8857.JPG)
   
