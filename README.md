@@ -24,3 +24,12 @@ Powered-on view showing the light pipes working for the IO board LEDs
 ![Case Powered View](/Images/MiSTer_LaserCase_Powered_640.jpg)
 
 CC BY Licence.
+  
+  
+#
+# Extra notes from MarTinX
+Top view with 3D printed push buttons. 
+![Smoked Transparent Ver](/Images/IMG_8857.JPG)
+  
+Here are the right length for rod/pillar and screw you need.  
+![Side View](/Images/IMG_8862.JPG)
