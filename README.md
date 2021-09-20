@@ -31,6 +31,7 @@ CC BY Licence.
 I added a DXF file into the repo with perfect and correct size.  
 I tried to conver the SVG into DXF with Adobe Illustrator and it exported wrong size DXF for me, and I cut a giant shell at the moment. (the internal zoom ratio is totally incorrect)  
 Now, I just make it with right size now. Have fun with it.
+And, 3mm thickness smoked transparent acrylic would be my suggestion.
 
 
 Top view with 3D printed push buttons. 
